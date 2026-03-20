@@ -29,7 +29,6 @@ Here are some ideas to get you started:
 - 🎨Digital Art
 - 🎸Guitar
 
-## 
 ![Steam Status](https://steam-stat.vercel.app/api?profileName=khayalsan)
 
 ## Stats
