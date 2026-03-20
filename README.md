@@ -20,3 +20,7 @@ Here are some ideas to get you started:
 ![Godot](https://img.shields.io/badge/godot-%23458BBF.svg?style=for-the-badge&logo=godotengine&logoColor=white)
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+
+## Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=khayalsan&show_icons=true&theme=gruvbox)
+![GitHub Streak](https://streak-stats.demolab.com?user=khayalsan&theme=gruvbox&border_radius=4.5)
