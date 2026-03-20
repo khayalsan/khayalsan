@@ -28,6 +28,10 @@ Here are some ideas to get you started:
 - 👾Videgames
 - 🎨Digital Art
 - 🎸Guitar
+
+## 
+![Steam Status](https://steam-stat.vercel.app/api?profileName=khayalsan)
+
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khayalsan&show_icons=true&theme=gruvbox)
 ![GitHub Streak](https://streak-stats.demolab.com?user=khayalsan&theme=gruvbox&border_radius=4.5)
