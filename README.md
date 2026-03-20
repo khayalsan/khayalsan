@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 ## Language and Tools
 ![Java](https://img.shields.io/badge/java-%23CA8B44.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/csharp-%23F43ADE.svg?style=for-the-badge&logo=c#&logoColor=white)
@@ -22,6 +23,11 @@ Here are some ideas to get you started:
 ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+## Interests
+- 🏯Anime
+- 👾Videgames
+- 🎨Digital Art
+- 🎸Guitar
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khayalsan&show_icons=true&theme=gruvbox)
 ![GitHub Streak](https://streak-stats.demolab.com?user=khayalsan&theme=gruvbox&border_radius=4.5)
