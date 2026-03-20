@@ -1,4 +1,4 @@
-## Hello there
+# Hello there
 
 <!--
 **khayalsan/khayalsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+## Language and Tools
+![Java](https://img.shields.io/badge/java-%23CA8B44.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/csharp-%23F43ADE.svg?style=for-the-badge&logo=c#&logoColor=white)
+![Godot](https://img.shields.io/badge/godot-%23458BBF.svg?style=for-the-badge&logo=godotengine&logoColor=white)
+![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
