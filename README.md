@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 - 🎸Guitar
 
 ![Steam Status](https://steam-stat.vercel.app/api?profileName=khayalsan)
-![Anime](./metrics.plugin.anilist.svg)
 
 ## Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khayalsan&show_icons=true&theme=gruvbox)
