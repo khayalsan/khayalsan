@@ -1,6 +1,12 @@
-**Hello there! 🫡**
-# I'm Khayal Alizada
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71DE8&background=71E7FF00&width=435&lines=Godot+C%23+Game+Developer;Java+Backend+Developer)](https://git.io/typing-svg)
+<h3 align="center"> Hello there! 🫡 </h3>
+<h1 align="center"> I'm Khayal Alizada </h1>
+<p align="center">
+  <a href="https://git.io/typing-svg" target="_blank" rel="noreferrer">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71DE8&background=71E7FF00&width=435&lines=Godot+C%23+Game+Developer;Java+Backend+Developer"/>
+  </a>
+</p>
+
+<!-- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71DE8&background=71E7FF00&width=435&lines=Godot+C%23+Game+Developer;Java+Backend+Developer)](https://git.io/typing-svg) -->
 <!--
 **khayalsan/khayalsan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
