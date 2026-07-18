@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Language and Tools
+<h2 align="center"> Language and Tools </h2>
 <!--
 ![Java](https://img.shields.io/badge/java-%23CA8B44.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23F43ADE.svg?style=for-the-badge&logo=c#&logoColor=white)
@@ -94,8 +94,12 @@ Here are some ideas to get you started:
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khayalsan&" alt="khayalsan" /></p> -->
 
-## Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=khayalsan&show_icons=true&theme=gruvbox)
-![GitHub Streak](https://streak-stats.demolab.com?user=khayalsan&theme=gruvbox&border_radius=4.5)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khayalsan&layout=compact&theme=gruvbox)
+<h2 align="center">Stats</h2>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=khayalsan&theme=gruvbox&border_radius=4.5"/>
+</div>
+
+<!-- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=khayalsan&show_icons=true&theme=gruvbox) -->
+<!-- ![GitHub Streak](https://streak-stats.demolab.com?user=khayalsan&theme=gruvbox&border_radius=4.5) -->
+<!-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khayalsan&layout=compact&theme=gruvbox) -->
 <!-- ![Snake animation](https://github.com/khayalsan/khayalsan/blob/output/github-contribution-grid-snake.svg)  -->
