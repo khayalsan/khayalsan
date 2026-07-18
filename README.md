@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://linkedin.com/in/khayal-alizada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khayal-alizada" height="30" width="40" /></a>
 </p> -->
-<p align="left"> 
+<p align="center"> 
   <a href="https://godotengine.org/" target="_blank" rel="noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg" alt="c" width="40" height="40"/>
   </a>
