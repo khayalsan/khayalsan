@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Web & Frameworks</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,spring,dotnet,nodejs,npm" />
+  <img src="https://skillicons.dev/icons?i=react,vite,html,css,tailwind,spring,dotnet,nodejs,npm" />
 </p>
 
 <h3 align="center">Game Dev</h3>
