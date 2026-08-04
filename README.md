@@ -23,20 +23,12 @@ Here are some ideas to get you started:
 -->
 
 <h2 align="center"> Language and Tools </h2>
-<!--
-![Java](https://img.shields.io/badge/java-%23CA8B44.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23F43ADE.svg?style=for-the-badge&logo=c#&logoColor=white)
-![Godot](https://img.shields.io/badge/godot-%23458BBF.svg?style=for-the-badge&logo=godotengine&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
--->
-
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khayal-alizada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khayal-alizada" height="30" width="40" /></a>
 </p> -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,csharp,godot,linux,git,cpp,c,docker,firebase,js,css,tailwind,html,mysql,postgres,python,react,redis,spring,ts,unity,arch,vim,neovim" />
+  <img src="https://skillicons.dev/icons?i=java,cs,godot,linux,git,github,cpp,c,dotnet,docker,firebase,js,css,tailwind,html,mysql,postgres,python,react,redis,spring,ts,unity,arch,vim,neovim,visualstudio,vscode,supabase,rider,idea,pycharm,webstorm,obsidian,npm,nodejs" />
 </p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khayalsan&" alt="khayalsan" /></p> -->
