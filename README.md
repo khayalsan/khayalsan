@@ -22,13 +22,39 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center"> Language and Tools </h2>
 <!-- <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/khayal-alizada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="khayal-alizada" height="30" width="40" /></a>
 </p> -->
+
+<h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,godot,linux,git,github,cpp,c,dotnet,docker,firebase,js,css,tailwind,html,mysql,postgres,python,react,redis,spring,ts,unity,arch,vim,neovim,visualstudio,vscode,supabase,rider,idea,pycharm,webstorm,obsidian,npm,nodejs" />
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,c,js,ts,python" />
+</p>
+
+<h3 align="center">Web & Frameworks</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,html,css,tailwind,spring,dotnet,nodejs,npm" />
+</p>
+
+<h3 align="center">Game Dev</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=godot,unity" />
+</p>
+
+<h3 align="center">Databases</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,supabase,firebase" />
+</p>
+
+<h3 align="center">Tools & IDEs</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,visualstudio,rider,idea,pycharm,webstorm,vim,neovim,obsidian" />
+</p>
+
+<h3 align="center">OS</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,arch" />
 </p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khayalsan&" alt="khayalsan" /></p> -->
