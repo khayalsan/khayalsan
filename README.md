@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,cpp,c,js,ts,python" />
+  <img src="https://skillicons.dev/icons?i=java,cs,gdscript,cpp,c,js,ts,python" />
 </p>
 
 <h3 align="center">Web & Frameworks</h3>
@@ -54,7 +54,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">OS</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,arch" />
+  <img src="https://skillicons.dev/icons?i=linux,arch,windows" />
 </p>
 
 <!-- <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=khayalsan&" alt="khayalsan" /></p> -->
