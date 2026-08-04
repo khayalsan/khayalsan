@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Languages</h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,cs,gdscript,cpp,c,js,ts,python" />
+  <img src="https://skillicons.dev/icons?i=java,cs,cpp,c,js,ts,python" />
 </p>
 
 <h3 align="center">Web & Frameworks</h3>
